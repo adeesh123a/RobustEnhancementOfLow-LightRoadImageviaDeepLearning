@@ -4,6 +4,6 @@ The aim is to design, implement, and rigorously evaluate a novel multi-stage enh
 ## Objectives:
 - To analyse existing low-light image enhancement techniques and identify their limitations in road environments.
 - To design a hybrid enhancement framework that merges illumination estimation with generative refinement for the enhancement of night-time road images of a high-quality.
-- To evaluate the model’s enhancement quality using objective metrics such as PSNR, SSIM, LPIPS, and NIQE across multiple low-light driving datasets.
+- To evaluate the model’s enhancement quality using objective metrics such as PSNR, SSIM and NIQE across multiple low-light driving datasets.
 - To compare the proposed model against established LLIE methods through both objective metrics and visual evaluation.
 - To analyse model generalization by evaluating performance across diverse datasets, covering varying levels of illumination, noise, and road conditions. 
